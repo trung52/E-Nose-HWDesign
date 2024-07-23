@@ -3,7 +3,7 @@
 This is main HW-Design repo for Electronic Nose (E-Nose) device in 20232 semester. I use Altium to design schematic and PCB For more information please contact [Vu Thanh Trung](https://www.linkedin.com/in/vu-thanh-trung-5ba738271/) or [Gmail]:thanhtrung5202@gmail.com
 
 ## Introduction
-In this project, I 2 ADS1115 ADC modules and 8 MEMS DFROBOT sensors. This circuit have been isolated between analog GND (AGND) and digital GND (DGND). Then it will be connected to AirSENSE circuit through IDC terminal.
+In this project, I used 2 ADS1115 ADC modules and 8 MEMS DFROBOT sensors. This circuit have been isolated between analog GND (AGND) and digital GND (DGND). Then it will be connected to AirSENSE circuit through IDC terminal.
 - Top layout
 
 ![image](https://github.com/user-attachments/assets/2ba98ec9-68eb-4f49-9db0-856b1ce653f0)
